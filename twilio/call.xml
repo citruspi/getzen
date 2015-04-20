@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say>The Zen of Python.</Say>
+    <Say>Beautiful is better than ugly.</Say>
+    <Say>Explicit is better than implicit.</Say>
+    <Say>Simple is better than complex.</Say>
+    <Say>Complex is better than complicated.</Say>
+    <Say>Flat is better than nested.</Say>
+    <Say>Sparse is better than dense.</Say>
+    <Say>Readability counts.</Say>
+    <Say>Special cases aren't special enough to break the rules.</Say>
+    <Say>Although practicality beats purity.</Say>
+    <Say>Errors should never pass silently.</Say>
+    <Say>Unless explicitly silenced.</Say>
+    <Say>In the face of ambiguity, refuse the temptation to guess.</Say>
+    <Say>There should be one-- and preferably only one --obvious way to do it.</Say>
+    <Say>Although that way may not be obvious at first unless you're Dutch.</Say>
+    <Say>Now is better than never.</Say>
+    <Say>Although never is often better than *right* now.</Say>
+    <Say>If the implementation is hard to explain, it's a bad idea.</Say>
+    <Say>If the implementation is easy to explain, it may be a good idea.</Say>
+    <Say>Namespaces are one honking great idea -- let's do more of those!</Say>
+    <Say>Good bye!</Say>
+</Response>
