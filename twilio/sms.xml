@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Message>Beautiful is better than ugly.</Message>
+    <Message>Explicit is better than implicit.</Message>
+    <Message>Simple is better than complex.</Message>
+    <Message>Complex is better than complicated.</Message>
+    <Message>Flat is better than nested.</Message>
+    <Message>Sparse is better than dense.</Message>
+    <Message>Readability counts.</Message>
+    <Message>Special cases aren't special enough to break the rules.</Message>
+    <Message>Although practicality beats purity.</Message>
+    <Message>Errors should never pass silently.</Message>
+    <Message>Unless explicitly silenced.</Message>
+    <Message>In the face of ambiguity, refuse the temptation to guess.</Message>
+    <Message>There should be one-- and preferably only one --obvious way to do it.</Message>
+    <Message>Although that way may not be obvious at first unless you're Dutch.</Message>
+    <Message>Now is better than never.</Message>
+    <Message>Although never is often better than *right* now.</Message>
+    <Message>If the implementation is hard to explain, it's a bad idea.</Message>
+    <Message>If the implementation is easy to explain, it may be a good idea.</Message>
+    <Message>Namespaces are one honking great idea -- let's do more of those!</Message>
+</Response>
