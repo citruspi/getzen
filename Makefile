@@ -10,10 +10,21 @@ all: dist
 clean:
 
 	rm -rf dist
+	rm -rf release
 
 dist: clean
 
 	mkdir dist
 	cp -r src/* dist
+
+release: dist
+
+	mkdir release
+	cd dist && zip -r ../dist.zip .
+
+	cp dist.zip release/$(COMMIT).zip
+	cp dist.zip release/$(BRANCH).zip
+
+	rm dist.zip
 
 .PHONY: clean
