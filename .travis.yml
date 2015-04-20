@@ -8,6 +8,7 @@ deploy:
   secret_access_key:
     secure: aaeZJFeiLQBRq3sVKzzaSpdoTkX7D6q3dG7xpgWeHAx0T+Xtg5JFXX2HHmREHKOJvJv1vZflaqoO7WBEdsC2U6mvVY4aHITBCS3Xega9lliIijDyQizVBSeQ0p4/WtaN67ZaIVbEs+x7Z+KuGuHMcmkytm5ZtXzDTeJiumXm/lo=
   bucket: io.citruspi.getzen
+  skip_cleanup: true
   local-dir: release
   acl: public_read
   on:
